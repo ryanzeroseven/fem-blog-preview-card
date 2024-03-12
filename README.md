@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Blog preview card](https://your-live-site-url.com)
+- Live Site URL: [Blog preview card](https://ryanzeroseven.github.io/fem-blog-preview-card/)
 
 ## My process
 
